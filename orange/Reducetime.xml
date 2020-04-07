@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Orange Demo">
+<test name="Login Testcases">
+<classes>
+<class name="orangee.Reducetimesuite">
+</class>
+</classes>
+</test>
+</suite>
