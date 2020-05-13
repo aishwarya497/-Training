@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="35058" started-at="2020-04-07T02:54:27 IST" finished-at="2020-04-07T02:55:02 IST">
+  <suite name="Default suite" duration-ms="37713" started-at="2020-04-08T06:42:29 IST" finished-at="2020-04-08T06:43:07 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="35058" started-at="2020-04-07T02:54:27 IST" finished-at="2020-04-07T02:55:02 IST">
-      <class name="orangee.Loginpagee">
-        <test-method status="PASS" signature="login()[pri:0, instance:orangee.Loginpagee@13a5fe33]" name="login" duration-ms="34990" started-at="2020-04-07T02:54:27 IST" finished-at="2020-04-07T02:55:02 IST">
+    <test name="Default test" duration-ms="37713" started-at="2020-04-08T06:42:29 IST" finished-at="2020-04-08T06:43:07 IST">
+      <class name="sbeexam1.Flightsearchtestng">
+        <test-method status="PASS" signature="main()[pri:0, instance:sbeexam1.Flightsearchtestng@13a5fe33]" name="main" duration-ms="37599" started-at="2020-04-08T06:42:29 IST" finished-at="2020-04-08T06:43:07 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- login -->
-      </class> <!-- orangee.Loginpagee -->
+        </test-method> <!-- main -->
+      </class> <!-- sbeexam1.Flightsearchtestng -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
